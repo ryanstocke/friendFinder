@@ -1,7 +1,7 @@
 var friendsArray = [
     {
-    "name": "Max",
-    "photo": "https://www.instagram.com/p/BrDkHvWnw36/",
+    "name": "Tom",
+    "photo": "https://pbs.twimg.com/profile_images/754010388920930304/Ggu4Fkuu_400x400.jpg",
     "sex": "male",
     "scores": [
         5,
@@ -17,8 +17,8 @@ var friendsArray = [
     ]
 },
 {
-    "name": "Blue",
-    "photo": "https://www.instagram.com/p/Borym8zHXwH/",
+    "name": "Bert",
+    "photo": "http://wuhanctfcentre.com/wp-content/uploads/2018/08/bert-kreischer-wanted-to-do-a-triathlon-we-wanted-to-help-catch-him-on-the-jo.jpg",
     "sex": "male",
     "scores": [
         2,
